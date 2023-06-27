@@ -1,0 +1,8 @@
+Dataset-
+1.Direct link - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/download?datasetVersionNumber=2
+2.Dataset contributor - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+
+Versions-
+1.tensorflow Version: 2.9.1
+2.opencv-python Version: 4.7.0.72
